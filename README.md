@@ -1,6 +1,6 @@
 # Boilerplate 
 
-> A Simple yet powerful boilerplate for working with React, combined with a backend express server for API development featuring Hot Reloading for react components.
+> A simple but powerful boilerplate for working with React, combined with a backend express server for API development featuring Hot Reloading for react components.
 
 ## Getting started
 1. ```git clone```
