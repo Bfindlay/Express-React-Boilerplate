@@ -13,7 +13,7 @@
 5. Open browser at [http://localhost:3000/](http://localhost:3000/)
 
 ## Build bundle for deployment
-1. ```npm run build``` command
+1. ```npm run build```
 2. Your compiled app file is located at ```/build/bundle.js```
 
 ## Contributing
