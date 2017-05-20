@@ -4,7 +4,7 @@
 
 ## Getting started
 1. ```git clone```
-2. ``cd Express-React-Boilerplate```
+2. ```cd Express-React-Boilerplate```
 3. ```npm install```
 4. ```npm start ```
   
